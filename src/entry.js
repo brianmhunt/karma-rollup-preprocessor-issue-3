@@ -3,4 +3,4 @@
  */
 console.log("entry.js");
 export { dep_var } from './dependency.js';
-export var main_var = 'mV';
+export var main_var = 'mv';
