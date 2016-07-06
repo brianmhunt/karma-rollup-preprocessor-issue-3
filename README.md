@@ -1,0 +1,1 @@
+# karma-rollup-preprocessor-issue-3
